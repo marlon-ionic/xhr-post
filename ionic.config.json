@@ -1,0 +1,7 @@
+{
+  "name": "xhr-post",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
